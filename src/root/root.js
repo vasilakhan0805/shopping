@@ -6,6 +6,7 @@ class Root extends Component{
         return(
             <div>
                 <Clothes/>
+                <a href="https://github.com/vasilakhan0805/shopping/tree/clothes" style={{color:'violet'}}>GitHub Source Code</a>
             </div>
         )
     }
